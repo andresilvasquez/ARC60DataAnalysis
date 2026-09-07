@@ -195,3 +195,4 @@ graphFunction('bering_ssh_anom_corr', cmap='coolwarm')
 ```
 
 ![](figures/bering_corr/bering_ssh_anom_corr.png)
+
